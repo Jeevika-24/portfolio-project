@@ -1,2 +1,2 @@
-# portfolio-project
+# PORTFOLIO PROJECT
 portfolio project using html and css
